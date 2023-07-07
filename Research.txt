@@ -1,0 +1,10 @@
+https://medium.com/djangotube/django-roles-groups-and-permissions-introduction-a54d1070544
+
+https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
+
+
+https://www.geeksforgeeks.org/creating-multiple-user-types-and-using-proxy-models-in-python-django/
+
+============ Quiz API ========================
+
+https://www.youtube.com/watch?v=8QLCaye3YjQ  ==> Very Academy
